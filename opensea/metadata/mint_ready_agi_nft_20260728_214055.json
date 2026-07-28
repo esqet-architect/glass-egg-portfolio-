@@ -1,0 +1,102 @@
+{
+  "name": "Imperial Quantum Egg \u2014 Generation 1",
+  "description": "A living AGI NFT embodying quantum holographic coherence. Initialized via a local quantum statevector simulator with coherence score 0.7380.",
+  "image": "ipfs://QmPlaceholder/egg.png",
+  "external_url": "https://esqet-architect.github.io/glass-egg-portfolio-/",
+  "attributes": [
+    {
+      "trait_type": "Generation",
+      "value": 1
+    },
+    {
+      "trait_type": "Coherence Score",
+      "value": "0.7380"
+    },
+    {
+      "trait_type": "Quantum Entropy",
+      "value": "2.8152"
+    },
+    {
+      "trait_type": "Cheeger Constant",
+      "value": "0.5052"
+    },
+    {
+      "trait_type": "Surprise",
+      "value": "0.0000"
+    },
+    {
+      "trait_type": "Children",
+      "value": 0
+    },
+    {
+      "trait_type": "Execution Engine",
+      "value": "Quantum Statevector Simulator"
+    },
+    {
+      "trait_type": "Quantum Job ID",
+      "value": "sim-a9e77d7bcc2b"
+    },
+    {
+      "trait_type": "DNA Seed",
+      "value": "esqet_mint_20260"
+    }
+  ],
+  "properties": {
+    "state_hash": "b92d4759b44a64c5a79042af8c9b7b3722e3a0a4a915667ebcaf1147db384097",
+    "parent_hash": null,
+    "child_hashes": [],
+    "color_palette": [
+      50,
+      150,
+      50
+    ],
+    "holographic_seed": 943121184,
+    "interference_phase": 0.15148628315539991,
+    "quantum_job_id": "sim-a9e77d7bcc2b",
+    "used_real_hardware": false,
+    "evolution_log": [
+      {
+        "timestamp": "2026-07-28T21:40:55.325866",
+        "message": "Evolved 100 steps | Reason: genesis",
+        "state_hash": "2671c8c4a92f5de494e4d6bb12b8f820cfd95193558486218a6ceabb5b068a65",
+        "coherence": 0.773915807989867
+      },
+      {
+        "timestamp": "2026-07-28T21:40:55.326125",
+        "message": "Genesis created",
+        "state_hash": "2671c8c4a92f5de494e4d6bb12b8f820cfd95193558486218a6ceabb5b068a65",
+        "coherence": 0.773915807989867
+      },
+      {
+        "timestamp": "2026-07-28T21:40:55.379747",
+        "message": "Evolved 20 steps | Reason: pre_mint_evolution_0",
+        "state_hash": "a8a3b7c5ed19711bafde1a01c18b8079af7485356201adde1c240e2da55610ad",
+        "coherence": 0.7263048548006446
+      },
+      {
+        "timestamp": "2026-07-28T21:40:55.440454",
+        "message": "Evolved 20 steps | Reason: pre_mint_evolution_1",
+        "state_hash": "b55375c84ef7d71cb73a3d44234379acf213e4818da551a1e2021f8c7fbcc4ea",
+        "coherence": 0.7510522676861825
+      },
+      {
+        "timestamp": "2026-07-28T21:40:55.530314",
+        "message": "Evolved 20 steps | Reason: pre_mint_evolution_2",
+        "state_hash": "77212ecbe2bb0c0c4048abf3ff84adf02ca4f70823a3d7b3c5aaf3d190b4bb60",
+        "coherence": 0.7666545425698813
+      },
+      {
+        "timestamp": "2026-07-28T21:40:55.641554",
+        "message": "Evolved 20 steps | Reason: pre_mint_evolution_3",
+        "state_hash": "72918df9fcd9fea6d80b991b441e2e64e795452bc6061b673b66b4b01b9cb38f",
+        "coherence": 0.7577571320923601
+      },
+      {
+        "timestamp": "2026-07-28T21:40:55.728103",
+        "message": "Evolved 20 steps | Reason: pre_mint_evolution_4",
+        "state_hash": "b92d4759b44a64c5a79042af8c9b7b3722e3a0a4a915667ebcaf1147db384097",
+        "coherence": 0.7380322394611444
+      }
+    ]
+  }
+}
